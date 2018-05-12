@@ -1,0 +1,30 @@
+_repo: Matter-Ether-and-Motion--The-Factors-and-Relations-of-Physical-Science--13-Rev.-ed.-enl._31428
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dolbear, A. E. (Amos Emerson)
+    alias: Dolbear, Amos Emerson
+    birthdate: 1837
+    deathdate: 1910
+    gutenberg_agent_id: '33913'
+    url: http://www.gutenberg.org/2009/agents/33913
+description: ''
+gutenberg_bookshelf: Physics
+gutenberg_issued: '2010-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31428'
+  lccn: 04012899
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Physics'
+title: "Matter, Ether, and Motion: The Factors and Relations of Physical Science\r\
+  \nRev. ed., enl."
+url: http://www.gutenberg.org/ebooks/31428
