@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33913'
     url: http://www.gutenberg.org/2009/agents/33913
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31428#Matter-Ether-and-Motion--The-Factors-and-Relations-of-Physical-Science--13-Rev.-ed.-enl.
 gutenberg_bookshelf: Physics
 gutenberg_issued: '2010-02-27'
 gutenberg_type: Text
